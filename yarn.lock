@@ -968,9 +968,9 @@ eslint-config-airbnb@^14.0.0:
   dependencies:
     eslint-config-airbnb-base "^11.0.1"
 
-eslint-config-vanilla@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-vanilla/-/eslint-config-vanilla-2.0.0.tgz#5abf736d2352b80a640014328fa9a6a7229ee29a"
+eslint-config-vanilla@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-vanilla/-/eslint-config-vanilla-3.0.0.tgz#87c9da141461f6de4e33e45f58ad7da4b67208b2"
   dependencies:
     eslint-config-airbnb "^14.0.0"
     eslint-config-airbnb-base "^11.0.1"
