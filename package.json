@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-vanilla",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "scripts": {
     "test": "make lint"
   },
