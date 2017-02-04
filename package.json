@@ -7,19 +7,17 @@
   "pre-commit": "test",
   "dependencies": {
     "babel-plugin-transform-decorators-legacy": "^1.3.4",
-    "babel-plugin-transform-runtime": "^6.15.0",
-    "babel-preset-latest": "^6.16.0",
-    "babel-preset-react": "^6.16.0",
-    "babel-preset-stage-0": "^6.16.0"
+    "babel-plugin-transform-runtime": "^6.22.0",
+    "babel-preset-latest": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "babel-preset-stage-0": "^6.22.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
-    "eslint": "^3.12.2",
-    "eslint-config-vanilla": "^3.0.0",
-    "eslint-plugin-babel": "^4.0.0",
+    "eslint": "^3.15.0",
+    "eslint-config-vanilla": "^5.0.0",
+    "eslint-plugin-babel": "^4.0.1",
     "eslint-plugin-import": "^2.2.0",
-    "eslint-plugin-jsx-a11y": "^3.0.2",
-    "eslint-plugin-react": "^6.8.0",
     "pre-commit": "^1.2.2"
   }
 }
